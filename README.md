@@ -8,3 +8,6 @@ The purpose of this project is to collect voice data from bee hives and enable t
 
 Mobile Application: 
 https://github.com/seydaozer/BeekeepingQRScanner
+
+Youtube Video:
+https://www.youtube.com/watch?v=hFajBHJ3Wbk&t=20s&ab_channel=%C5%9Eeyda%C3%96zer
